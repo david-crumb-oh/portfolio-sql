@@ -10,8 +10,10 @@ This project demonstrates how you can utilize SQLite to do ad-hoc SQL analyses u
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* sqlite3
+* pandas
+* openpyxl
+* sqlalchemy
 
 ### Installing
 
@@ -37,20 +39,19 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+* David M. Crumb dcrumb1@gmail.com 
+
 
 ## Version History
 
 * 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * Introduction and project requirements aggregation
 * 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
