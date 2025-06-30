@@ -1,10 +1,10 @@
 # SQL Portfolio Project
 
-Simple overview of use/purpose.
+The purpose of this project is to demonstrate the usage of SQLite SQL tools integrated with Jupyter.  In this case, I will be using medical data from XXXXX.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This project demonstrates how you can utilize SQLite to do ad-hoc SQL analyses using Jupyter.  In this project, I will demonstrate the ways to SQL directly against the SQLite db file along with the required libraries.
 
 ## Getting Started
 
@@ -55,8 +55,4 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
